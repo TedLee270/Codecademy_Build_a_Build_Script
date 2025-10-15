@@ -3,4 +3,6 @@
 
 * The instructions can be found on https://www.codecademy.com/courses/introduction-to-linux/projects/bash-scripting-p.
 
-1. 
+![Instructions](BashScriptInstructions.png)
+
+1. We start by 
